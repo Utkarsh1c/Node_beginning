@@ -1,0 +1,25 @@
+{
+  "name": "node_beginning",
+  "version": "1.0.0",
+  "description": "node.js guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh1c/Node_beginning.git"
+  },
+  "author": "Utkarsh Mittal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utkarsh1c/Node_beginning/issues"
+  },
+  "homepage": "https://github.com/Utkarsh1c/Node_beginning#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
