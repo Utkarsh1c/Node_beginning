@@ -18,7 +18,9 @@
     "url": "https://github.com/Utkarsh1c/Node_beginning/issues"
   },
   "homepage": "https://github.com/Utkarsh1c/Node_beginning#readme",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "nodemon": "^1.19.1"
   }
